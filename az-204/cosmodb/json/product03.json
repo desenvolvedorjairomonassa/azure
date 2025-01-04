@@ -1,0 +1,42 @@
+{
+    "id": "f1e2d3c4b5a6b7c8d9e0f1a2b3c4d5e6",
+    "ProductID": "TV-2023-4K-456",
+    "nome": "Smart TV 4K Ultra HD",
+    "descricao": "Smart TV de 55 polegadas com resolução 4K, HDR e sistema operacional Android TV.",
+    "categoria": "Eletrônicos",
+    "subcategoria": "Televisores",
+    "marca": "TechVision",
+    "modelo": "4K-2023",
+    "preco": 3499.99,
+    "moeda": "BRL",
+    "estoque": 40,
+    "data_lancamento": "2023-06-25",
+    "especificacoes": {
+      "tamanho": "55 polegadas",
+      "resolucao": "4K Ultra HD",
+      "hdr": "Sim",
+      "sistema_operacional": "Android TV",
+      "conectividade": "Wi-Fi, Bluetooth"
+    },
+    "avaliacoes": [
+      {
+        "usuario": "usuario-7",
+        "nota": 5,
+        "comentario": "TV incrível, imagem nítida e cores vibrantes!"
+      },
+      {
+        "usuario": "usuario-8",
+        "nota": 4,
+        "comentario": "Bom produto, mas o controle remoto poderia ser melhor."
+      }
+    ],
+    "imagens": [
+      "https://exemplo.com/imagens/smart-tv-1.jpg",
+      "https://exemplo.com/imagens/smart-tv-2.jpg"
+    ],
+    "tags": ["tv", "4k", "smart", "2023"],
+    "status": "disponivel",
+    "data_criacao": "2023-06-01T09:00:00Z",
+    "data_atualizacao": "2023-06-20T14:15:00Z"
+  }
+  

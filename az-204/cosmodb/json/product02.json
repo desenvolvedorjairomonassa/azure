@@ -1,0 +1,43 @@
+{
+    "id": "e99a18c428cb38d5f260853678922e03",
+    "ProductID": "Notebook-Gamer-Alpha",
+    "nome": "Notebook Gamer Alpha",
+    "descricao": "Notebook de alto desempenho para gamers com processador Intel Core i9, 16GB de RAM e placa de vídeo NVIDIA RTX 3080.",
+    "categoria": "Eletrônicos",
+    "subcategoria": "Notebooks",
+    "marca": "Alpha Tech",
+    "modelo": "Alpha-Gamer-2023",
+    "preco": 7999.99,
+    "moeda": "BRL",
+    "estoque": 30,
+    "data_lancamento": "2023-08-20",
+    "especificacoes": {
+      "tela": "15.6 polegadas Full HD",
+      "processador": "Intel Core i9",
+      "memoria_ram": "16GB",
+      "armazenamento": "1TB SSD",
+      "placa_de_video": "NVIDIA RTX 3080",
+      "bateria": "65Wh"
+    },
+    "avaliacoes": [
+      {
+        "usuario": "usuario-3",
+        "nota": 5,
+        "comentario": "Notebook incrível, roda todos os jogos sem problemas!"
+      },
+      {
+        "usuario": "usuario-4",
+        "nota": 4,
+        "comentario": "Ótimo notebook, mas a bateria poderia durar mais."
+      }
+    ],
+    "imagens": [
+      "https://exemplo.com/imagens/notebook-alpha-1.jpg",
+      "https://exemplo.com/imagens/notebook-alpha-2.jpg"
+    ],
+    "tags": ["notebook", "gamer", "eletronicos", "tecnologia", "2023"],
+    "status": "disponivel",
+    "data_criacao": "2023-08-01T09:00:00Z",
+    "data_atualizacao": "2023-08-15T13:45:00Z"
+  }
+  
