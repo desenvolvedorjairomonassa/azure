@@ -1,0 +1,52 @@
+{
+    "order_id": "987654321",
+    "order_date": "2023-10-06T14:45:30Z",
+    "customer": {
+        "customer_id": "CUST002",
+        "name": "Maria Oliveira",
+        "email": "maria.oliveira@example.com",
+        "phone": "+55 21 8765-4321"
+    },
+    "shipping_address": {
+        "street": "Avenida Brasil, 456",
+        "city": "Rio de Janeiro",
+        "state": "RJ",
+        "postal_code": "20000-000",
+        "country": "Brasil"
+    },
+    "items": [
+        {
+            "item_id": "ITEM003",
+            "name": "Tênis de Corrida",
+            "quantity": 1,
+            "price": 199.99,
+            "currency": "BRL"
+        },
+        {
+            "item_id": "ITEM004",
+            "name": "Mochila Esportiva",
+            "quantity": 1,
+            "price": 149.99,
+            "currency": "BRL"
+        },
+        {
+            "item_id": "ITEM005",
+            "name": "Garrafa Térmica",
+            "quantity": 2,
+            "price": 49.99,
+            "currency": "BRL"
+        }
+    ],
+    "payment": {
+        "method": "boleto",
+        "amount": 449.96,
+        "currency": "BRL",
+        "transaction_id": "TRANSACTION002",
+        "boleto_details": {
+            "due_date": "2023-10-15",
+            "barcode": "12345678901234567890123456789012345678901234"
+        }
+    },
+    "status": "pendente",
+    "notes": "Pedido para presente, favor embalar para presente."
+}
